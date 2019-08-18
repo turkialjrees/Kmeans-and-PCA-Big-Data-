@@ -2,9 +2,9 @@
 
 <img src="https://github.com/turkialjrees/Big-Data-ML/blob/master/img/fff.PNG">
 
-## Welcome to Advance Big Data Analysis using Machine Learning   
+## Welcome to Advance Big Data Analysis using Machine Learning  _ K-means and PCA  
 
-### You learn how to apply Kmeans and PCA on Crime-Data
+### You learn how to apply K-means and PCA on Big-Data
 
 For introductory and Beginners please <a href="">https://github.com/turkialjrees/Big-Data-ML</a>  
 
